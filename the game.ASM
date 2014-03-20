@@ -32,8 +32,8 @@ exit:
 openz db 'open', 0
 site db 'https://www.youtube.com/watch?v=V3KN_bLjzpM', 0
 tit db 'The Game', 0
-intro db 'Hello. I wanna play a game.', 13, 10, 'If you answer a question wrong you get a BSoD.', 0
-intro2 db 'I edited some dlls and the only way to restore them is by winning,', 13, 10, 'and remember the clock is ticking...', 0
+intro db 'Hello. I wanna play a game.', 13, 10, '7	'You will find that something has happened.', 0
+intro2 db 'I have taken the liberty of editting some important system DLL files. If you answer incorrectly, your system will bluescreen. Think strong,', 13, 10, 'and remember..the clock is ticking.....', 0
 q1 db 'Is rainbowdash best pone?', 0
 q2 db 'Are neckbeards hot?', 0
 q3 db 'Is notaOS better than TankOS?', 0
